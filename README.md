@@ -1,2 +1,2 @@
 # Devops-Practical
-lab
+lab manual
